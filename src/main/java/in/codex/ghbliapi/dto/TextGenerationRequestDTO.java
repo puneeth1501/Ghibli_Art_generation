@@ -6,8 +6,4 @@ import lombok.Data;
 public class TextGenerationRequestDTO {
     private String prompt;
     private String style;
-
-    
-    
-    
 }

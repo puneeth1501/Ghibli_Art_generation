@@ -5,8 +5,8 @@ import java.util.List;
 public class TextToImageRequest {
     private List<TextPrompt> text_prompts;
     private double cfg_scale=7;
-    private int height=512;
-    private int width=512;
+    private int height=1024;
+    private int width=1024;
     private int samples=1;
     private String style_preset;
     private int steps=30;
