@@ -9,6 +9,7 @@ public class GhbliapiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GhbliapiApplication.class, args);
+		System.out.println(("puneeth"));
 	}
 
 }
