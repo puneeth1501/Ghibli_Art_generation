@@ -11,6 +11,7 @@ public class GhbliapiApplication {
 		SpringApplication.run(GhbliapiApplication.class, args);
 		System.out.println(("puneeth"));
 		System.out.println(("pohila"));
+		System.out.println(("pohila"));
 	}
 
 }
