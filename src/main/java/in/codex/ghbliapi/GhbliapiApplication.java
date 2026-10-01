@@ -11,7 +11,11 @@ public class GhbliapiApplication {
 		SpringApplication.run(GhbliapiApplication.class, args);
 		System.out.println(("puneeth"));
 		System.out.println(("pohila"));
+<<<<<<< HEAD
 		System.out.println(("pohila"));
+=======
+		System.out.println(("kalyan"));
+>>>>>>> cc45acf5465ec32ef5ee7690796e927080ac58d3
 	}
 
 }
